@@ -17,3 +17,5 @@ KNN-Classifier is also used in the third part for classification purposes.
 
 Multiprocessing is achieved using Python's multiprocessing module.
 
+*More details will be added soon !!!*
+
