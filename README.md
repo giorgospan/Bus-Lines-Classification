@@ -11,7 +11,7 @@ Requirements:
   * [fastdtw](https://pypi.org/project/fastdtw/)
   * [haversine](https://pypi.org/project/haversine/)
 
-It utilizes Dynamic Time Warping (DTW) & Longest Common Subsequence (LCS) as similarity measures.    
+It utilizes Dynamic Time Warping (DTW) & Longest Common Subsequence (LCS) as similarity measures between bus trajectories.    
 
 KNN-Classifier is also used in part 4 for classification purposes. Note that there is no dataset uploaded yet for the this part.    
 
