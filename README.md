@@ -13,7 +13,7 @@ Requirements:
 
 It utilizes Dynamic Time Warping (DTW) & Longest Common Subsequence (LCS) as similarity measures.    
 
-KNN-Classifier is also used in the third part for classification purposes. Note that there is no dataset uploaded yet for the third part.    
+KNN-Classifier is also used in the part 4 for classification purposes. Note that there is no dataset uploaded yet for the this part.    
 
 Multiprocessing is achieved using Python's multiprocessing module.
 
