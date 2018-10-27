@@ -11,8 +11,7 @@ Requirements:
   * [fastdtw](https://pypi.org/project/fastdtw/)
   * [haversine](https://pypi.org/project/haversine/)
   
-  
-  **Dataset format:**
+**Dataset format:**
 ![img not found](https://github.com/giorgospan/BusLinesCategorization/blob/master/figure.png "Dataset Format")
 
   * **Part 1:** The purpose of this part is to familiarize us with the use of gmplot python library by visualizing 5 different bus lines (i.e: journeyPatternIDs). 
