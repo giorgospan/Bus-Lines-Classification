@@ -17,16 +17,14 @@ This is the second assignment of "Data Mining" course (spring 2018).
 
   * **Part 1:** The purpose of this part is to familiarize us with the use of gmplot python library by visualizing 5 different bus lines (i.e: journeyPatternIDs). 
   
-  * **Part 2:**
+  * **Part 2:** For every bus line(i.e: trajectory) in test_set_a1.csv we need to find its 5 neighbors from the train_set.csv file. We utilize Dynamic Time Warping ([DTW](https://en.wikipedia.org/wiki/Dynamic_time_warping)) as similarity measure between two trajectories.
   
-  * **Part 3:**  
-
-
-It utilizes Dynamic Time Warping (DTW) & Longest Common Subsequence (LCS) as similarity measures between bus trajectories.    
-
-KNN-Classifier is also used in part 4 for classification purposes. Note that there is no dataset uploaded yet for the this part.    
-
+  * **Part 3:** In this part we do the same as the in the previous part with the exception of utilizing Longest Common Subsequence ([LCS](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)) as similarity measure this time.
+  
+  * **Part 4:** The main task of this part is to predict the bus line that each trajectory in test_set_a2.csv is part of. For this purpose we created a typical KNN-Classifier. 
+  
 Multiprocessing is achieved using Python's multiprocessing module.
+train_set.csv file will be uploaded soon.
 
-*More details will be added soon !!!*
+
 
