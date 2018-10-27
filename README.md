@@ -2,7 +2,7 @@
 
 This is the second assignment of "Data Mining" course (spring 2018).
 
-Requirements:
+**Requirements:**
   * [Jupyter Notebook](http://jupyter.org/install)
   * [scikit learn](http://scikit-learn.org/stable/install.html)
   * [pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
