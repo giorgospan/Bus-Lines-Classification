@@ -10,6 +10,17 @@ Requirements:
   * [gmplot](https://pypi.org/project/gmplot/)
   * [fastdtw](https://pypi.org/project/fastdtw/)
   * [haversine](https://pypi.org/project/haversine/)
+  
+  
+  **Dataset format:**
+  ![img not found]( "Dataset Format")
+
+  * **Part 1:** The purpose of this part is to familiarize us with the use of gmplot python library by visualizing 5 different bus lines (i.e: journeyPatternIDs). 
+  
+  * **Part 2:**
+  
+  * **Part 3:**  
+
 
 It utilizes Dynamic Time Warping (DTW) & Longest Common Subsequence (LCS) as similarity measures between bus trajectories.    
 
