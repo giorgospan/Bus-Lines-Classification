@@ -28,4 +28,4 @@ train_set.csv file will be uploaded soon.
 
 
 
-\* By "neighbors" we mean the 5 most similar trajectories to the one currently being tested.
+\* *By "neighbors" we mean the 5 most similar trajectories to the one currently being tested.*
