@@ -21,7 +21,7 @@ This is the second assignment of "Data Mining" course (spring 2018).
   
   * **Part 3:** In this part we do the same as the in the previous part with the exception of utilizing Longest Common Subsequence ([LCS](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)) as similarity measure this time.
   
-  * **Part 4:** The main task of this part is to predict the bus line that each trajectory in test_set_a2.csv is part of. For this purpose we created a typical KNN-Classifier. 
+  * **Part 4:** The main task of this part is to predict the bus line that each trajectory in test_set_a2.csv is part of. For this purpose we create a typical KNN-Classifier. 
   
 Multiprocessing is achieved using Python's multiprocessing module.  
 train_set.csv file will be uploaded soon.
